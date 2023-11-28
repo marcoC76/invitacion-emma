@@ -2,7 +2,10 @@ var i = 0;
 const frasesJSON = {
     "frases": [
         `<br>¡Estamos súper emocionados porque <span class="
-        Nom3 ">Emma</span> va a cumplir 5 años y queremos que seas parte de la fiesta más chispeante de todas!.`,
+        Nom3 ">Emma</span> va a cumplir 5 años y queremos que seas parte de la fiesta más chispeante de todas!.
+        <br>
+        <span class="Nom3 ">¡NO FALTES!</span>
+        `,
         /* `¡Prepárate para una fiesta de titulación que dejará huella en la historia! Acompáñanos para festejar a <span class="
          Nom3 ">Mariel</span> y su increíble logro en Psicología. Habrá risas, música y ¡mucho color! `,
         `La perseverancia y el esfuerzo dan sus frutos. <span class="
