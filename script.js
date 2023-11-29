@@ -1,7 +1,7 @@
 var i = 0;
 const frasesJSON = {
     "frases": [
-        `<br><br>
+        `<br><br><br>
         <span class="Nom3 ">¡NO FALTES!</span>
         `,
         /* `¡Prepárate para una fiesta de titulación que dejará huella en la historia! Acompáñanos para festejar a <span class="
